@@ -1,6 +1,9 @@
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=azraelsanti&theme=tokyonight)](https://git.io/streak-stats)
-
+Student from Russia
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azraelsanti&langs_count=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bloodysharp&theme=solarized_dark)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloodysharp&theme=solarized_dark)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bloodysharp&theme=solarized_dark)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloodysharp&theme=solarized_dark)
