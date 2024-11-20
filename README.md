@@ -34,9 +34,6 @@
        <a href="https://github.com/Bloodysharp/ImGui-Loader">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=ImGui-Loader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ImGui-Loader">
        </a>
-    <a href="https://github.com/Bloodysharp/imgui-menu-for-rainbow-six-siege">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=imgui-menu-for-rainbow-six-siege&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="imgui-menu-for-rainbow-six-siege">
-    </a>
     <a href="https://github.com/Bloodysharp/Imgui-Blue-loader">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Imgui-Blue-loader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Imgui-Blue-loader">
     </a>
