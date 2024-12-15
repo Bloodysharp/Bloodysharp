@@ -37,5 +37,14 @@
     <a href="https://github.com/Bloodysharp/Imgui-Blue-loader">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Imgui-Blue-loader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Imgui-Blue-loader">
     </a>
+       <a href="https://github.com/Bloodysharp/Hyper-V">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Hyper-V&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Imgui-Blue-loader">
+    </a>
+       <a href="https://github.com/Bloodysharp/Sapphire">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Sapphire&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Imgui-Blue-loader">
+    </a>
+       <a href="https://github.com/Bloodysharp/ImGuiMenu-and-Loader">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=ImGuiMenu-and-Loader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Imgui-Blue-loader">
+    </a>
 </p>
 
