@@ -15,7 +15,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloodysharp&theme=2077)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloodysharp&theme=2077)
----
+<!------
 ## IMGUI menu's and loader's.
   <p align="left">
     <p align="left">
@@ -48,3 +48,4 @@
     </a>
 </p>
 
+--->
