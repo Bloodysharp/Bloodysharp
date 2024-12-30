@@ -15,8 +15,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloodysharp&theme=2077)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloodysharp&theme=2077)
-<!------
-## IMGUI menu's and loader's.
+
+# IMGUI menu's and loader's.
   <p align="left">
     <p align="left">
         <a href="https://github.com/Bloodysharp/Cheat-ImGui-Menu-Design">
@@ -48,4 +48,20 @@
     </a>
 </p>
 
---->
+# Cheats
+
+ <p align="left">
+    <p align="center">
+        <a href="https://github.com/Bloodysharp/Fortnite-internal-cheat">
+        <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Fortnite-internal-cheat&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fortnite-internal-cheat">
+    </a>
+     <a href="https://github.com/Bloodysharp/warzone_internal_cheat">
+        <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=warzone_internal_cheat&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="warzone_internal_cheat">
+    </a>
+     <a href="https://github.com/Bloodysharp/Valorant-internal-cheat">
+        <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=Valorant-internal-cheat&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Valorant-internal-cheat">
+    </a>
+     <a href="https://github.com/Bloodysharp/CS-GO-External-cheat">
+        <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bloodysharp&repo=CS-GO-External-cheat&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS-GO-External-cheat">
+    </a>
+    </p>
